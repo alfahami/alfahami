@@ -12,16 +12,16 @@
 
 <p align="center">
   <a href="https://github.com/alfahami">
-    <img src="https://badges.pufler.dev/visits/dimkagithub/alfahami?logo=GitHub&style=plastic&a=0">
+    <img src="https://badges.pufler.dev/visits/alfahami/alfahami?logo=GitHub&style=plastic&a=0">
   </a>
   <a href="https://github.com/alfahami">
-    <img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub&style=plastic&a=0">
+    <img src="https://badges.pufler.dev/years/alfahami?logo=GitHub&style=plastic&a=0">
   </a>
   <a href="https://github.com/alfahami">
-    <img src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub&style=plastic&a=0">
+    <img src="https://badges.pufler.dev/repos/alfahami?logo=GitHub&style=plastic&a=0">
   </a>
   <a href="https://github.com/alfahami">
-    <img src="https://badges.pufler.dev/gists/dimkagithub?logo=GitHub&style=plastic&a=0">
+    <img src="https://badges.pufler.dev/gists/alfahami?logo=GitHub&style=plastic&a=0">
   </a>
   <a href="https://github.com/alfahami">
     <img src="https://badges.pufler.dev/commits/monthly/alfahami?logo=GitHub&style=plastic&a=0">
