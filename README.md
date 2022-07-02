@@ -19,30 +19,5 @@
     &emsp;
     <a href="https://fb.me/alfahami">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>
-    </a> 
-   
-    
-    
-    
-    <!--
-        <br><br> 
-        <strong>Check out my work below!</strong>
-    <br><br>
-    <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/alfahami/alfahami?style=flat-square&color=black&logo=github&a=0">
-    </a>
-    <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/years/alfahami?style=flat-square&color=black&logo=github&a=0">
-    </a>
-    <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/repos/alfahami?style=flat-square&color=black&logo=github&a=0">
-    </a>
-    <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/gists/alfahami?style=flat-square&color=black&logo=github&a=0">
-    </a>
-    <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/commits/monthly/alfahami?style=flat-square&color=black&logo=github&a=0">
-    </a>
-    -->
-    
+    </a>     
   </p>
