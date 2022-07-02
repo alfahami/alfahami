@@ -5,28 +5,28 @@
   </p>
   
   <p align="center">
-    <a href="https://dev.to/alfahami">
-      <img src="https://svgur.com/i/TKs.svg" width="24px"/>
-    </a>
-    &emsp;
-    <a href= "https://instagram.com/thecomorian">
-      <img src="https://img.icons8.com/ios-glyphs/256/808080/instagram-new.svg" width="28px"/>
-    </a>
-    &emsp;
-    <a href="https://buymeacoffee.com/alfahami">
-      <img src="https://img.icons8.com/ios-glyphs/256/808080/coffee.png" width="30px"/>
-    </a> 
-    &emsp;
-    <a href="https://pufler.dev">
-      <img src="https://img.icons8.com/material/256/808080/globe--v1.png" width="28px"/>
-    </a>
-    &emsp;
     <a href="https://linkedin.com/in/alfahami">
-      <img src="https://img.icons8.com/ios-filled/256/808080/linkedin.svg" width="26px"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin-2--v1.png"/>
     </a>
-    <br><br>
-    {%
-    <strong>Check out my work below!</strong>
+    &emsp;
+    <a href="http://acemtech.org">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/internet-explorer.png"/>
+    </a>
+     &emsp;
+    <a href= "https://instagram.com/thecomorian">
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>
+    </a>
+    &emsp;
+    <a href="https://fb.me/alfahami">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>
+    </a> 
+   
+    
+    
+    
+    <!--
+        <br><br> 
+        <strong>Check out my work below!</strong>
     <br><br>
     <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/visits/alfahami/alfahami?style=flat-square&color=black&logo=github&a=0">
@@ -43,5 +43,6 @@
     <a href="https://badges.pufler.dev">
       <img src="https://badges.pufler.dev/commits/monthly/alfahami?style=flat-square&color=black&logo=github&a=0">
     </a>
-    %}
+    -->
+    
   </p>
