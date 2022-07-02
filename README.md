@@ -6,18 +6,18 @@
   
   <p align="center">
     <a href="https://linkedin.com/in/alfahami">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin-2--v1.png"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/999999/linkedin-2--v1.png"/>
     </a>
     &emsp;
     <a href="http://acemtech.org">
-      <img src="https://img.icons8.com/ios-glyphs/30/000000/internet-explorer.png"/>
+      <img src="https://img.icons8.com/ios-glyphs/30/999999/internet-explorer.png"/>
     </a>
      &emsp;
     <a href= "https://instagram.com/thecomorian">
-      <img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png"/>
+      <img src="https://img.icons8.com/ios-glyphs/30/999999/instagram-new.png"/>
     </a>
     &emsp;
     <a href="https://fb.me/alfahami">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/999999/facebook-new.png"/>
     </a>     
   </p>
